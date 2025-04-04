@@ -1,0 +1,248 @@
+
+
+housing price index
+
+
+{
+  "query": "Show the HPI for Delhi in the second quarter of 2013.",
+  "result": [
+    {
+      "city": "Delhi",
+      "year": 2013,
+      "quarter": "Q2",
+      "index_value": 103
+    }
+  ]
+}
+{
+  "query": "How does the housing price index of Kochi compare to Hyderabad in Q2 2023?",
+  "result": [
+    {
+      "city": "Hyderabad",
+      "index_value": 176,
+      "year": 2023,
+      "quarter": "Q2"
+    },
+    {
+      "city": "Kochi",
+      "index_value": 134,
+      "year": 2023,
+      "quarter": "Q2"
+    }
+  ]
+}
+{
+  "query": "List the cities with the lowest 5 HPI values in Q2 2013.",
+  "result": {
+    "cities": [
+      {
+        "city": "Meerut",
+        "index_value": "67.00",
+        "year": 2013,
+        "quarter": "Q2"
+      },
+      {
+        "city": "Ranchi",
+        "index_value": "69.00",
+        "year": 2013,
+        "quarter": "Q2"
+      },
+      {
+        "city": "Chakan",
+        "index_value": "69.00",
+        "year": 2013,
+        "quarter": "Q2"
+      },
+      {
+        "city": "Kalyan Dombivali",
+        "index_value": "70.00",
+        "year": 2013,
+        "quarter": "Q2"
+      },
+      {
+        "city": "Kanpur",
+        "index_value": "71.00",
+        "year": 2013,
+        "quarter": "Q2"
+      }
+    ]
+  }
+}
+
+
+cpi_workers data
+
+{
+  "query": "What was the Idustrial Worker for the food category in 2015?",
+  "result": [
+    {
+      "year": 2015,
+      "time_period": "Average of Months",
+      "worker_type": "CPI-IW",
+      "base_year": 2001,
+      "worker_region": "Food",
+      "index_value": "293.00"
+    },
+    {
+      "year": 2015,
+      "time_period": "Last Month of",
+      "worker_type": "CPI-IW",
+      "base_year": 2001,
+      "worker_region": "Food",
+      "index_value": "293.00"
+    }
+  ]
+}
+
+{
+  "query": "What was the percentage increase in the CPI-IW for food from 2011 to 2020?",
+  "result": [
+    {
+      "year_2011": 2011,
+      "index_value_2011": 206,
+      "year_2020": 2020,
+      "index_value_2020": 346,
+      "percentage_increase": 67.96
+    }
+  ]
+}
+
+{
+  "query": "Compare the CPI-Idustrial Worker for food in 2015 and 2020.",
+  "result": [
+    {
+      "year": 2015,
+      "time_period": "Average of Months",
+      "worker_type": "CPI-IW",
+      "base_year": 2001,
+      "worker_region": "Food",
+      "index_value": "293.00"
+    },
+    {
+      "year": 2020,
+      "time_period": "Average of Months",
+      "worker_type": "CPI-IW",
+      "base_year": 2001,
+      "worker_region": "Food",
+      "index_value": "346.00"
+    },
+    {
+      "year": 2015,
+      "time_period": "Last Month of",
+      "worker_type": "CPI-IW",
+      "base_year": 2001,
+      "worker_region": "Food",
+      "index_value": "293.00"
+    },
+    {
+      "year": 2020,
+      "time_period": "Last Month of",
+      "worker_type": "CPI-IW",
+      "base_year": 2001,
+      "worker_region": "Food",
+      "index_value": "118.00"
+    }
+  ]
+}
+
+
+consumer_price_index_cpi_for_agricultural_and_rural_labourers
+{
+  "query": "What was the CPI value in Himachal Pradesh for agricultural labourers in June 2024?",
+  "result": [
+    {
+      "year": 2024,
+      "month": "June",
+      "state": "himachalpradesh",
+      "category": "General",
+      "index_value": 992,
+      "labour_type": "agricultural"
+    },
+    {
+      "year": 2024,
+      "month": "June",
+      "state": "himachalpradesh",
+      "category": "Food",
+      "index_value": 1043,
+      "labour_type": "agricultural"
+    }
+  ]
+}
+{
+  "query": "What is the Consumer Price Index (CPI) for rural labourers in Andhra Pradesh in June 2024?",
+  "result": [
+    {
+      "year": 2024,
+      "month": "June",
+      "state": "andhrapradesh",
+      "category": "General",
+      "index_value": 1474,
+      "labour_type": "rural"
+    },
+    {
+      "year": 2024,
+      "month": "June",
+      "state": "andhrapradesh",
+      "category": "Food",
+      "index_value": 1470,
+      "labour_type": "rural"
+    }
+  ]
+}
+
+wpi index
+
+
+{
+  "query": "what is the wpi index of the year 2023",
+  "result": [
+    {
+      "year": 2023,
+      "commodity_name": "all commodities",
+      "commodity_code": 1000000000,
+      "commodity_weight": 100,
+      "index_value": 151.4
+    }
+  ]
+}
+
+{
+  "query": "What is the WPI value for crude petroleum in 2022?",
+  "result": {
+    "year": 2022,
+    "commodity_name": "crude petroleum",
+    "index_value": 147.1
+  }
+}
+
+
+{
+  "query": "What is the average WPI for edible oils over the last 5 years?",
+  "result": [
+    {
+      "year": 2019,
+      "average_wpi": 114.7,
+      "commodity_name": "oils and fats"
+    },
+    {
+      "year": 2020,
+      "average_wpi": 117,
+      "commodity_name": "oils and fats"
+    },
+    {
+      "year": 2021,
+      "average_wpi": 149.4,
+      "commodity_name": "oils and fats"
+    },
+    {
+      "year": 2022,
+      "average_wpi": 164.4,
+      "commodity_name": "oils and fats"
+    },
+    {
+      "year": 2023,
+      "average_wpi": 150.3,
+      "commodity_name": "oils and fats"
+    }
+  ]
+}
