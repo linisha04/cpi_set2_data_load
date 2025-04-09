@@ -1,0 +1,222 @@
+{
+  "SR Result": {
+    "error": "No results found"
+  },
+  "VR Result": {
+    "question": "What was the impact of lower plan revenue and capital expenditure on defense in reducing the gross fiscal deficit (GFD) and revenue deficit (RD)?",
+    "retrieved_results": [
+      {
+        "content": "21. Lending credence to the fiscal deficit target of FY25 is the disciplined trajectory of the \nfiscal deficit path during FY24. Buoyant revenues and slowing expenditures have kept the \nfiscal deficit path closer to its budgeted path. Slowing expenditure has res ulted from a \nmoderation in the growth of revenue expenditure. The capex plan remains intact and has been \nbudgeted to grow at a steep rate.  \n \n5.1\n2.0\n0\n2\n4\n6\n8\n10\nFY14 FY15 FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24\n(RE)\nFY25\n(BE)\nPer cent of GDP\nFiscal Deficit Revenue Deficit",
+        "distance": 0.6576801538467407,
+        "source": "Monthly Economic Review January 2024.pdf",
+        "page": 15
+      },
+      {
+        "content": "(a) Revenue Expenditure           2140612 1878963 2008463 11.0 6.9 \n      Interest payments 587570 529243 582675 10.1 10.1 \n      Major Subsidies 266206 191110 197066 -7.5 3.1 \n      Pensions 166618 145746 160123 10.9 9.9 \n      Grants for creation of Capital Assets 200300 192520 191220 15.6 -0.7 \n  (b) Capital Expenditure 316623 263704 302959 -7.9 14.9 \n5. Revenue Deficit 410930 443778 445293 40.0 0.3 \n6. Effective Revenue Deficit 210630 251258 254073 67.0 1.1 \n7. Fiscal Deficit 634398 591663 645367 10.0 9.1 \n8. Primary Deficit 46828 62420 62692 9.3 0.4 \nSource: Union Budget 2019-20; Controller General of Accounts, Ministry of Finance \nNotes: RE: Revised estimate; PA: Provisional Actuals \n \n \nTable 11: Fiscal Indicators- Rolling Targets as a Percentage of GDP \n 2018-19 RE 2019-20 BE 2020-2021 2021-2022 \n (projections) \nFiscal Deficit 3.4 3.4 3.0 3.0 \nRevenue Deficit 2.2 2.2 1.7 1.5 \nPrimary Deficit 0.2 0.2 0.0 0.0 \nGross Tax Revenue 11.9 12.1 12.1 12.2",
+        "distance": 0.7079411745071411,
+        "source": "MER_April_2019.pdf",
+        "page": 13
+      },
+      {
+        "content": "5.Plan Expenditure (i)+(ii) 575000 290992 293651 52.4 51.1 19.6 0.9 \n    (i) Revenue Account 453503 234195 231505 52.8 51.0 17.7 -1.1 \n    (ii) Capital Account 121497 56797 62146 50.7 51.2 28.1 9.4 \n6.Total Expenditure   (4)+(5) 1794892 1021195 1074183 61.3 59.8 17.7 5.2 \n  (a)Revenue Expenditure           1568112 895710 952728 62.4 60.8 17.0 6.4 \n(b)Of which Grants for  \ncreation of Capital Assets \n168104 85004 81584 48.7 48.5 31.8 -4.0 \n  (c)Capital   Expenditure 226780 125485 121455 54.8 53.6 22.6 -3.2 \n7.Revenue Deficit 378349 393019 411075 103.5 108.6 23.0 4.6 \n8.Effective Revenue Deficit (7-\n6(b)) \n210245 308015 329491 150.1 156.7 20.8 7.0 \n9.Fiscal Deficit 531177 509557 525134 93.9 98.9 23.4 3.1 \n10.Primary Deficit 104166 295123 292484 171.8 280.8 28.3 -0.9 \nSource: Controller General of Accounts. * Gross Tax Revenue is prior to devolution to the States.",
+        "distance": 0.7089554667472839,
+        "source": "inddec14.pdf",
+        "page": 10
+      },
+      {
+        "content": "5.Plan Expenditure (i)+(ii) 575000 351263 352631 63.3 61.3 18.7 0.4 \n    (i) Revenue Account 453503 274016 282278 61.8 62.2 12.8 3 \n    (ii) Capital Account 121497 77247 70353 68.9 57.9 46.0 -8.9 \n6.Total Expenditure   \n(4)+(5) \n1794892 1163791 1236388 69.9 68.9 17.4 6.2 \n  (a)Revenue Expenditure           1568112 1005175 1095548 70.0 69.9 15.7 9.0 \n(b)Of which Grants for  \ncreation of Capital Assets \n168104 96059 97863 55.0 58.2 29.3 1.9 \n  (c)Capital   Expenditure 226780 158616 140840 69.2 62.1 29.4 -11.2 \n7.Revenue Deficit 378349 371242 401775 97.7 106.2 24.6 8.2 \n8.Effective Revenue \nDeficit (7-6(b)) \n210245 275183 303912 134.1 144.6 23 10.4 \n9.Fiscal Deficit 531177 516390 532381 95.2 100.2 27.6 3.1 \n10.Primary Deficit 104166 267926 257161 155.9 246.9 32.2 -4.0 \nSource: Controller General of Accounts. * Gross Tax Revenue is prior to devolution to the States.",
+        "distance": 0.709086537361145,
+        "source": "indjan15.pdf",
+        "page": 11
+      },
+      {
+        "content": "5.Plan Expenditure (i)+(ii) 575000 268059 266991 48.3 46.4 19.2 -0.4 \n    (i) Revenue Account 453503 217235 211209 49 46.6 17.7 -2.8 \n    (ii) Capital Account 121497 50824 55782 45.4 45.9 25.8 9.8 \n6.Total Expenditure   \n(4)+(5) \n1794892 922009 962088 55.4 53.6 18.3 4.3 \n  (a)Revenue Expenditure           1568112 809051 852707 56.3 54.4 17.3 5.4 \n(b)Of which Grants for  \ncreation of Capital Assets \n168104 80237 73705 45.9 43.8 36.1 -8.1 \n  (c)Capital   Expenditure 226780 112958 109381 49.3 48.2 25.6 -3.2 \n7.Revenue Deficit 378349 353010 372634 92.9 98.5 23.8 5.6 \n8.Effective Revenue Deficit \n(7-6(b)) \n210245 272773 298929 132.9 142.2 20.5 9.6 \n9.Fiscal Deficit 531177 457886 475751 84.4 89.6 24.5 3.9 \n10.Primary Deficit 104166 273464 269777 159.2 259 29.0 -1.3 \nSource: Controller General of Accounts. * Gross Tax Revenue is prior to devolution to the States.",
+        "distance": 0.7142581939697266,
+        "source": "indnov14.pdf",
+        "page": 12
+      }
+    ]
+  }
+}
+
+{
+  "SR Result": [
+    {
+      "sub_category": "Manufacture of Tobacco Products",
+      "growth_rate_percentage": -8.3
+    },
+    {
+      "sub_category": "Manufacture of Wearing Apparel",
+      "growth_rate_percentage": -14.1
+    },
+    {
+      "sub_category": "Other Manufacturing",
+      "growth_rate_percentage": -6.2
+    },
+    {
+      "sub_category": "Manufacture of Furniture",
+      "growth_rate_percentage": -5.5
+    },
+    {
+      "sub_category": "Manufacture of Computer, Electronic and Optical Products",
+      "growth_rate_percentage": -11.3
+    },
+    {
+      "sub_category": "Manufacture of Leather and Related Products",
+      "growth_rate_percentage": -1
+    },
+    {
+      "sub_category": "Manufacture of Wood and Products of Wood and Cork, Except Furniture; Manufacture of Articles of Straw and Plaiting Materials",
+      "growth_rate_percentage": -5.9
+    },
+    {
+      "sub_category": "Manufacture of Paper and Paper Products",
+      "growth_rate_percentage": -3.6
+    },
+    {
+      "sub_category": "Printing and Reproduction of Recorded Media",
+      "growth_rate_percentage": -1.4
+    },
+    {
+      "sub_category": "Manufacture of Chemicals and Chemical Products",
+      "growth_rate_percentage": -1.5
+    }
+  ],
+  "VR Result": [
+    {
+      "content": "33 Basic Metal and Alloy Industries  74.5 \n34 Metal Products and Parts, except Machinery and Equipment  28.1 \n35-36 Machinery and Equipment other than Transport equipment  95.7 \n37 Transport Equipment and Parts  39.8 \n38 Other Manufacturing Industries   25.6",
+      "distance": 0.9717892408370972,
+      "source": "manual_iip_23oct08_0.pdf",
+      "page": 23
+    },
+    {
+      "content": "http://www.statcan.ca/english/concepts/policy-infousers.htm [Accessed 31 August \n2003]. \nUnited Nations : Index Numbers of Industrial Production, Studies  in Methods, Series F \nNo.1 \nUnited Nations (1990), International Standard Industrial Classification of all Economic \nActivities, Rev. 3, New York. \nUnited Nations : Statistical Commission Paper E/CN,3/61/Add.1,Indices of Industrial \nProduction  \nUnited States C ensus Bureau, Quarterly Services Survey, \nhttp://www.census.gov/indicator/qss/QSS.html. \nUnited States Census Bureau, The X -12-ARIMA Seasonal Adjustment Programme, \nhttp://www.census.gov/srd/www/x12a/.",
+      "distance": 1.0213836431503296,
+      "source": "manual_iip_23oct08_0.pdf",
+      "page": 64
+    },
+    {
+      "content": "produces a single homogeneous product or a number of products and employs several \ntypes of professionals. For systematic identification, quantification and measurement of \nall industrial products, a standard industrial classification of all economic activities is \nessential for every country. Besides helping in measurement of industrial products, this \nclassification is useful  in classifying the economically active population and generating \ndifferent types of labour statistics, compilation of secto r-wise national income estimates, \netc. Adoption of a standard industrial classification also facilitates comparison of \nstatistics available from various sources on different aspects of the economy and helps \nin making meaningful economic analysis and drawing useful conclusions. \n63. Several types of classifications  related to industrial sector  have been developed \nat the international level and corresponding classifications have also been developed by",
+      "distance": 1.0404503345489502,
+      "source": "manual_iip_23oct08_0.pdf",
+      "page": 21
+    },
+    {
+      "content": "6 \nTable-1: Brief  history of Base revision of IIP \nBase \nyear  \n Sectors, No. of items and weights \n(in%) \nNo. of items \ncovered \nBasis of \nallotment of \nweights \nWeighting \nmethod \n1937     Mining, (1) -               4.0 \n Manufacturing (13)- 92.0 \n Electricity (1)-           4.0 \n15*  Proportion \nto total \nvalue of \noutput \nWeighted \narithmetic \nmean \n1946  Mining       (1)-         11.95 \n Manufacturing (19)- 88.05 \nElectricity$ \n20* Value \nadded by \nmanufacture\n \nWeighted \narithmetic \nmean \n1951  Mining (2) -                  7.16 \nManufacturing (85)  - 90.68 \nElectricity (1) –              2.16 \n88 \n [ISIC-1948] \nNet Value \nadded  \nWeighted \narithmetic \nmean \n1956  Mining  (2)    -              7.47 \nManufacturing (198) – 88.85 \nElectricity(1)   –             3.68 \n201 \n[ISIC-1948) \nNet Value \nadded  \nWeighted \narithmetic \nmean \n1960  Mining   (37) –               9.72 \nManufacturing. –         84.91 \nElectricity   –                 5.37 \n312 \n(CII)# \nNet Value \nadded \nWeighted",
+      "distance": 1.0430504083633423,
+      "source": "manual_iip_23oct08_0.pdf",
+      "page": 5
+    },
+    {
+      "content": "22 \ni) Making, altering, repairing, ornamenting, finishing, packing, oiling, washing, \ncleaning, breaking up, demolishing, or otherwise treating or adopting any article \nor substance with a view to its use, sale, transport, delivery or disposal, or \nii) Pumping oil, water, sewage, or \niii) Generating, transforming or transmitting power, or  \niv) Composing types for printing, printing by letter press, lithography, photogravure \nor other similar process, or book-binding, or \nv) Constructing, re-constructing, repairing, finishing, breaking up ships or vessels or \nvi) Preserving or storing any article in Cold Storage. \n2.5 Classifications: Activity, Use and Product Based \n62. The industrial sector comprises several economic activities, each activ ity in turn \nproduces a single homogeneous product or a number of products and employs several \ntypes of professionals. For systematic identification, quantification and measurement of",
+      "distance": 1.067122220993042,
+      "source": "manual_iip_23oct08_0.pdf",
+      "page": 21
+    }
+  ]
+}
+
+{
+  "SR Result": {
+    "query": "Compare the GSVA at current prices for the primary, secondary, and tertiary sectors in Karnataka from 2020 to 2023.",
+    "result": [
+      {
+        "sector": "Primary",
+        "year": "2020-21",
+        "value": 23981715
+      },
+      {
+        "sector": "Primary",
+        "year": "2021-22",
+        "value": 28527032
+      },
+      {
+        "sector": "Primary",
+        "year": "2022-23",
+        "value": 29725382
+      },
+      {
+        "sector": "Primary",
+        "year": "2023-24",
+        "value": 31469971
+      },
+      {
+        "sector": "Secondary",
+        "year": "2020-21",
+        "value": 30394979
+      },
+      {
+        "sector": "Secondary",
+        "year": "2021-22",
+        "value": 37739354
+      },
+      {
+        "sector": "Secondary",
+        "year": "2022-23",
+        "value": 42085202
+      },
+      {
+        "sector": "Secondary",
+        "year": "2023-24",
+        "value": 44992451
+      },
+      {
+        "sector": "Tertiary",
+        "year": "2020-21",
+        "value": 96490199
+      },
+      {
+        "sector": "Tertiary",
+        "year": "2021-22",
+        "value": 116064597
+      },
+      {
+        "sector": "Tertiary",
+        "year": "2022-23",
+        "value": 135819626
+      },
+      {
+        "sector": "Tertiary",
+        "year": "2023-24",
+        "value": 153267222
+      }
+    ]
+  },
+  "VR Result": {
+    "question": "Compare the GSVA at current prices for the primary, secondary, and tertiary sectors in Karnataka from 2020 to 2023.",
+    "retrieved_results": [
+      {
+        "content": "3.2 Financial, Real Estate & Professional Services34,05,474 36,91,645 39,60,232 8.4 7.3\n3.3 Public Administration, Defence & Other \nServices* 18,75,304 20,21,798 22,06,290 7.8 9.1\nGVA at Basic Prices 1,48,04,901 1,58,73,751 1,68,91,195 7.2 6.4\nStatement 3: First Advance Estimates of GVA at Basic Prices by Economic Activity (at 2011- 12 Prices)\n2022-23\n(FRE)\n2023-24 \n(PE)\n2024-25\n(FAE)\nPercentage Change Over \nPrevious YearIndustry\n       (₹ Crore)\n2023-24 2024-25\n1. Primary Sector 49,78,870 52,51,104 57,39,114 5.5 9.3\n1.1 Agriculture, Livestock, Forestry & Fishing 44,84,268 47,25,223 51,99,547 5.4 10.0\n1.2. Mining & Quarrying 4,94,602 5,25,881 5,39,567 6.3 2.6\n2. Secondary Sector 63,19,363 68,67,083 73,41,375 8.7 6.9\n2.1. Manufacturing 35,36,461 38,19,749 40,70,762 8.0 6.6\n2.2. Electricity, Gas, Water Supply & Other Utility \nServices 6,04,209 6,63,458 6,82,356 9.8 2.8\n2.3. Construction 21,78,693 23,83,877 25,88,257 9.4 8.6\n3. Tertiary Sector 1,33,60,808 1,46,43,960 1,61,83,120 9.6 10.5",
+        "distance": 0.6465435028076172,
+        "source": "doc202517482201.pdf",
+        "page": 8
+      },
+      {
+        "content": "2023-24 of ₹158.74 lakh crore, registering a growth rate of 6.4% as compared to 7.2% growth rate \nin 2023-24. Nominal GVA is estimated to attain a level of ₹2 92.64 lakh crore during FY 2024-25, \nagainst ₹267.62 lakh crore in 2023-24, showing a growth rate of 9.3% \nFig. 1: Annual GDP and GVA Estimates along with Y-o-Y Growth Rates at Constant Prices",
+        "distance": 0.6686238050460815,
+        "source": "doc202517482201.pdf",
+        "page": 2
+      },
+      {
+        "content": "10 \n \nTABLES \n \n \nTable 1 : Growth of GVA at Basic Prices by Economic Activity at Constant (2011-12) Prices (per cent) \nSectors Growth Rate (%) Share in GVA (%) \n2015-16 \n2nd RE \n2016-17 \n1st RE \n2017-18  \n2nd AE \n2015-16 \n \n2016-17 \n1st RE \n2017-18 \n2nd AE \nAgriculture, forestry & fishing 0.6 6.3 3.0 15.4 15.3 14.8 \nIndustry 9.8 6.8 4.8 31.6 31.5 31.0 \nMining & quarrying 13.8 13.0 3.0 3.1 3.3 3.2 \nManufacturing 12.8 7.9 5.1 18.1 18.2 18.0 \nElectricity, gas, water supply & other \nutility services \n4.7 9.2 7.3 2.1 2.2 2.2 \nConstruction 3.7 1.3 4.3 8.2 7.8 7.7 \nServices 9.6 7.5 8.3 53.0 53.2 54.2 \nTrade, hotel, transport storage 10.3 7.2 8.3 19.0 19.0 19.3 \nFinancial , real estate & prof. services 10.9 6.0 7.2 21.9 21.7 21.8 \nPublic administration, defence and \nother services \n6.1 10.7 10.1 12.2 12.6 13.0 \nGVA at basic prices 8.1 7.1 6.4 100.0 100.0 100.0 \nGDP at market prices 8.2 7.1 6.6  ---  ---  --- \nSource: Central Statistics Office (CSO).",
+        "distance": 0.7204505205154419,
+        "source": "MER-March 2018.pdf",
+        "page": 9
+      },
+      {
+        "content": "9 \n \nTABLES \n \n \n \nTable 1 : Growth of GVA at Basic Prices by Economic Activity at Constant (2011-12) Prices (per cent) \nSectors Growth Rate (%) Share in GVA (%) \n2015-16 \n2nd RE \n2016-17 \n1st RE \n2017-18  \n2nd AE \n2015-16 \n \n2016-17 \n1st RE \n2017-18 \n2nd AE \nAgriculture, forestry & fishing 0.6 6.3 3.0 15.4 15.3 14.8 \nIndustry 9.8 6.8 4.8 31.6 31.5 31.0 \nMining & quarrying 13.8 13.0 3.0 3.1 3.3 3.2 \nManufacturing 12.8 7.9 5.1 18.1 18.2 18.0 \nElectricity, gas, water supply & other \nutility services \n4.7 9.2 7.3 2.1 2.2 2.2 \nConstruction 3.7 1.3 4.3 8.2 7.8 7.7 \nServices 9.6 7.5 8.3 53.0 53.2 54.2 \nTrade, hotel, transport storage 10.3 7.2 8.3 19.0 19.0 19.3 \nFinancial , real estate & prof. services 10.9 6.0 7.2 21.9 21.7 21.8 \nPublic administration, defence and \nother services \n6.1 10.7 10.1 12.2 12.6 13.0 \nGVA at basic prices 8.1 7.1 6.4 100.0 100.0 100.0 \nGDP at market prices 8.2 7.1 6.6  ---  ---  --- \nSource: Central Statistics Office (CSO).",
+        "distance": 0.7215760946273804,
+        "source": "MER-April 2018.pdf",
+        "page": 8
+      },
+      {
+        "content": "8 \n \nTABLES \nTable 1: Growth of GVA at Basic Prices by Economic Activity at Constant (2011-12) Prices (per cent)  \nSectors Growth Rate (%) Share in GVA or GDP (%) \n2015-16 \n2nd RE \n2016-\n17 1st \nRE \n2017-18  \n2nd AE \n2015-\n16 \n \n2016-17 \n1st RE \n2017-18 \n2nd AE \nAgriculture, forestry & fishing 0.6 6.3 3.0 15.4 15.3 14.8 \nIndustry 9.8 6.8 4.8 31.6 31.5 31.0 \n Mining & quarrying 13.8 13.0 3.0 3.1 3.3 3.2 \n Manufacturing 12.8 7.9 5.1 18.1 18.2 18.0 \n Electricity, gas, water    supply & \nother utility services \n4.7 9.2 7.3 2.1 2.2 2.2 \n Construction 3.7 1.3 4.3 8.2 7.8 7.7 \nServices 9.6 7.5 8.3 53.0 53.2 54.2 \n Trade, hotel, transport storage 10.3 7.2 8.3 19.0 19.0 19.3 \n Financial , real estate & prof \nservices \n10.9 6.0 7.2 21.9 21.7 21.8 \n Public administration, defence and \nother services \n6.1 10.7 10.1 12.2 12.6 13.0 \nGVA at basic prices 8.1 7.1 6.4 100.0 100.0 100.0 \nGDP at market prices 8.2 7.1 6.6  ---  ---  --- \nSource: Central Statistics Office (CSO).",
+        "distance": 0.7234228849411011,
+        "source": "MER February 2018.pdf",
+        "page": 7
+      }
+    ]
+  }
+}
+
+
