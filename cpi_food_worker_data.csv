@@ -1,0 +1,41 @@
+year,time period,worker type,base year,worker region,index value
+2011,Average of Months,CPI-IW,2001,Food,206
+2012,Average of Months,CPI-IW,2001,Food,230
+2013,Average of Months,CPI-IW,2001,Food,259
+2014,Average of Months,CPI-IW,2001,Food,276
+2015,Average of Months,CPI-IW,2001,Food,293
+2016,Average of Months,CPI-IW,2001,Food,305
+2017,Average of Months,CPI-IW,2001,Food,310
+2018,Average of Months,CPI-IW,2001,Food,312
+2019,Average of Months,CPI-IW,2001,Food,335
+2020,Average of Months,CPI-IW,2001,Food,346
+2011,Last Month of,CPI-IW,2001,Food,212
+2012,Last Month of,CPI-IW,2001,Food,240
+2013,Last Month of,CPI-IW,2001,Food,258
+2014,Last Month of,CPI-IW,2001,Food,276
+2015,Last Month of,CPI-IW,2001,Food,293
+2016,Last Month of,CPI-IW,2001,Food,298
+2017,Last Month of,CPI-IW,2001,Food,303
+2018,Last Month of,CPI-IW,2001,Food,315
+2019,Last Month of,CPI-IW,2001,Food,336
+2020,Last Month of,CPI-IW,2001,Food,118
+2011,Average of Months,CPI-IW,2001,Non Food,185
+2012,Average of Months,CPI-IW,2001,Non Food,202
+2013,Average of Months,CPI-IW,2001,Non Food,216
+2014,Average of Months,CPI-IW,2001,Non Food,230
+2015,Average of Months,CPI-IW,2001,Non Food,241
+2016,Average of Months,CPI-IW,2001,Non Food,251
+2017,Average of Months,CPI-IW,2001,Non Food,263
+2018,Average of Months,CPI-IW,2001,Non Food,290
+2019,Average of Months,CPI-IW,2001,Non Food,312
+2020,Average of Months,CPI-IW,2001,Non Food,322
+2011,Last Month of,CPI-IW,2001,Non Food,192
+2012,Last Month of,CPI-IW,2001,Non Food,210
+2013,Last Month of,CPI-IW,2001,Non Food,223
+2014,Last Month of,CPI-IW,2001,Non Food,235
+2015,Last Month of,CPI-IW,2001,Non Food,247
+2016,Last Month of,CPI-IW,2001,Non Food,255
+2017,Last Month of,CPI-IW,2001,Non Food,273
+2018,Last Month of,CPI-IW,2001,Non Food,304
+2019,Last Month of,CPI-IW,2001,Non Food,317
+2020,Last Month of,CPI-IW,2001,Non Food,121
